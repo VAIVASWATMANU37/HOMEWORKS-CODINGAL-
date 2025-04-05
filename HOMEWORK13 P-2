@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    MARK{
+        background-color: greenyellow;
+    }
+</style>
+<body>
+    <h1>WHAT IS VALUE OF PLANK LENGTH?</h1>
+THE VALUE OF PLANK LENGTH IS <MARK>1.6 x 10<sup>-35</sup> metres
+
+</body></MARK> <h1>Which is the most harmful gas in the atmosphere?</h1>
+<h2>THE MOST HARMFUL GAS IN OUR ATMOSPHERE IS NITROGEN DIOXIDE (NO<sub>2</sub>)</h2>
+</body>
+</html>
